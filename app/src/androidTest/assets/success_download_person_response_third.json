@@ -1,0 +1,64 @@
+{
+  "results": [{
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Peter",
+      "last": "Petrov"
+    },
+    "location": {
+      "street": {
+        "number": 6509,
+        "name": "Mechelininkatu"
+      },
+      "city": "Ruokolahti",
+      "state": "Ostrobothnia",
+      "country": "Finland",
+      "postcode": 94424,
+      "coordinates": {
+        "latitude": "-27.5077",
+        "longitude": "-145.7049"
+      },
+      "timezone": {
+        "offset": "+6:00",
+        "description": "Almaty, Dhaka, Colombo"
+      }
+    },
+    "email": "kasper.joki@example.com",
+    "login": {
+      "uuid": "73ca6b8f-7299-467b-b368-a7bac15a4531",
+      "username": "happyleopard718",
+      "password": "camero",
+      "salt": "BkKJAESD",
+      "md5": "3693e5ab3f9141546a76178da22a4b28",
+      "sha1": "3644f5fe06143a3413c937f4d4b3a42836b6ae32",
+      "sha256": "b01be319c614f33f04d3df9220abfcc1ee1b0ff35ca41a63a075e403c542f6f9"
+    },
+    "dob": {
+      "date": "1972-11-28T22:09:02.909Z",
+      "age": 22
+    },
+    "registered": {
+      "date": "2017-05-07T00:27:01.741Z",
+      "age": 7
+    },
+    "phone": "08-136-232",
+    "cell": "041-280-44-05",
+    "id": {
+      "name": "HETU",
+      "value": "NaNNA265undefined"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/66.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+    },
+    "nat": "FI"
+  }],
+  "info": {
+    "seed": "a5846618cc40ee6d",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
